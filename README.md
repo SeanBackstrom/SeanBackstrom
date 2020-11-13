@@ -1,8 +1,5 @@
 ### Hi there, I am Sean Backstrom. 👋
 
-<!--
-**SeanBackstrom/SeanBackstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
  🔭 I’m currently working on A live updating police brutality database, and a Deep Learning Neural Network to accompany.
  🌱 I’m currently learning AWS, Live Object Detection in Video
@@ -11,4 +8,4 @@
  💬 Ask me about being a professional music producer in LA!
  📫 How to reach me: linkedin.com/seanbackstrom, sean.backstrom@gmail.com
  ⚡ Fun fact: I am a level 13 Paladin in Dungeons and Dragons
--->
+
